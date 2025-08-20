@@ -1,0 +1,28 @@
+{
+  "name": "todoprojectexpresssetup",
+  "version": "1.0.0",
+  "description": "steps for express setup",
+  "keywords": [
+    "express",
+    "git",
+    "github"
+  ],
+  "homepage": "https://github.com/akhiyadav8255/expresssetup3#readme",
+  "bugs": {
+    "url": "https://github.com/akhiyadav8255/expresssetup3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akhiyadav8255/expresssetup3.git"
+  },
+  "license": "ISC",
+  "author": "akshaya",
+  "type": "module",
+  "main": "express.js",
+  "scripts": {
+    "start":"node express.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
